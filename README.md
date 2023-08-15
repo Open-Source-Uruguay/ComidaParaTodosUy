@@ -1,6 +1,6 @@
 # ComidaParaTodosUy
 
-La idea inicial es la realización de una plataforma o producto de software similar que ayude a la crisis alimentaria de Uruguay.
+La idea inicial es la realización de una plataforma o producto de software similar que ayude a combatir la crisis alimentaria de Uruguay.
 
 En primera instancia se planteó que un grupo 1 conformado por *restoranes, bares y locales que manejen alimentos en general* puedan subscribirse a la plataforma para dar aviso de productos que estén proximos a caducar pero aún puedan usarse, o donaciones a conciencia que deseen hacer, sean publicados en la plataforma. Esto habilitaría a un grupo 2, conformado por *grupos de ayuda existentes al día de hoy y voluntarios de ollas populares y de comedores* para que puedan pasar a retirarlos y utilizarlos para confeccionar comida a voluntad para los más necesitados.
 
