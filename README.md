@@ -9,7 +9,7 @@ Se entiende que esta propuesta ayudaría a estas organizaciones de la siguiente 
 - **A las organizaciones que venden y trabajan con alimentos:** Les serviría que pasen a retirar los productos que a la brevedad dejaran de servirles o no podrán utilizar, haciendo que tirar o ver qué se hace con esto ya no sea un problema. Además se planteó la posibilidad de dar publicidad/reconocimiento a los negocios que se sumen a ayudar de diversas maneras, aumentando su status y alcance del negocio en nuestra sociedad.
 
 
-A continuación algo de información útil
+A continuación algo de información recopilada hasta el momento.
 
 **INVOLUCRADOS EN LA PROBLEMATICA:**
 
